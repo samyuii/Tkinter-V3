@@ -56,7 +56,7 @@ Yet to be added
 
 ## Credits
 
-This project was created by Samyak Jain. Feel free to contribute by submitting bug reports, feature requests, or pull requests.
+This project was created by [Samyak Jain](https://twitter.com/OGsamyak). Feel free to contribute by submitting bug reports, feature requests, or pull requests.
 
 ## License
 
