@@ -1,0 +1,15 @@
+boto3==1.28.25
+geopy==2.3.0
+googlesearch_python==1.2.3
+numpy==1.23.5
+opencv_contrib_python==4.8.0.74
+opencv_python==4.8.0.74
+opencv_python_headless==4.8.0.76
+paramiko==2.8.1
+Pillow==9.4.0
+Pillow==10.3.0
+psutil==5.9.0
+PyAutoGUI==0.9.54
+pynput==1.7.6
+pywhatkit==5.4
+twilio==8.5.0
