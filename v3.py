@@ -765,5 +765,3 @@ if __name__ == "__main__":
     task_manager = create_task_manager(root)
     app = MainWindow(root)
     root.mainloop()
-
-
