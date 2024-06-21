@@ -50,9 +50,9 @@ Once the application starts, you'll see a main window with various buttons categ
 3. **Camera**: Capture photos, record videos, or apply filters to images using the camera functionalities.
     
 4. **AWS**: Launch EC2 instances, create S3 buckets, upload files, or use the SNS service directly from the GUI.
+   
 
-## Screenshots
-Yet to be added
+![python_YLuy0xIXqm](https://github.com/theSamyak/Tkinter-V3/assets/139710951/46146c96-c1a7-41ed-a8e0-29d60bf125fc)
 
 ## Credits
 
